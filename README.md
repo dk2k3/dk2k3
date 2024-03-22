@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dheeraj 
-- 👀 I’m interested in java....data science...hacking
+- 👀 I’m interested in data science...Ethical hacking
 - 🌱 I’m currently a student
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me linkedin
