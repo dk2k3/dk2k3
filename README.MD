@@ -96,7 +96,6 @@ Zero-execution static analysis engine — combines MD5/SHA256 hash matching, hex
 ![FAISS](https://img.shields.io/badge/FAISS-00A1F1?style=for-the-badge)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![React](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
@@ -118,10 +117,6 @@ Zero-execution static analysis engine — combines MD5/SHA256 hash matching, hex
 - 🎓 **Google Cybersecurity** — Coursera
 - 🎓 **CCNAv7: Introduction to Networks** — Cisco Networking Academy
 
-### `[ RESEARCH ]`
-
-> 📄 *"Maximizing the Potential of Data Analytics in Sports: Ethical Considerations in Decision Making"*
-> Mentor: Dr. Andhe Pallavi
 
 ---
 
