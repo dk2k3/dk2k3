@@ -64,7 +64,7 @@ Production-style RAG system — upload PDFs, get grounded natural-language answe
 
 Detects camouflaged personnel, vehicles & equipment from images. Runs inference across four YOLOv8 variants (n/s/m/l) in parallel with side-by-side annotated comparison. Trained on a custom camouflage dataset via GPU-accelerated Colab.
 
-[`→ View Repo`](#)
+[`→ View Repo`](https://github.com/dk2k3/Camovision)
 
 </td>
 <td width="50%" valign="top">
